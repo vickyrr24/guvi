@@ -1,2 +1,3 @@
-num=[int(x) for x in input().split()]
-print(max(num))
+nu=[int(x) for x in input().split()]
+
+print(max(nu))
