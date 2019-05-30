@@ -3,7 +3,6 @@ first_nums = ["Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Ei
 tens = ["Ten", "Twenty", "Thirty","Forty","Fifty", "Sixty","Seventy","Eighty","Ninety"]
 
 num=int(input())
-print(num)
 if num < 20:
     print(first_nums[num])
 elif num < 100 and num % 10 == 0:
