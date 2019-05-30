@@ -1,0 +1,10 @@
+n=int(input())
+flag=1
+while(n!=1):
+    if(n%2!=0):
+        flag=0
+    n=n//2
+if(flag):
+    print("yes")
+else:
+    print("no")
