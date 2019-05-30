@@ -1,4 +1,4 @@
-str=input()
+st=input()
 
 
-print(len(str))
+print(len(st))
