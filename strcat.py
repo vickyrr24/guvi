@@ -1,2 +1,3 @@
 n,m=input().split()
-print(n+m)
+st=n+m
+print(st)
