@@ -1,5 +1,5 @@
-#len of string
-st=input()
-l=len(st)
-print(l)
-
+s=input()
+count=0
+for i in s:
+  count=count+1
+print(count)
