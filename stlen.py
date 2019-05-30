@@ -1,4 +1,4 @@
 st=input()
-
-
-print(len(st))
+l=len(st)
+print(l)
+#len of string
