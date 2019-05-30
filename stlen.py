@@ -1,5 +1,5 @@
 s=input()
-count=0
+co=0
 for i in s:
-  count=count+1
-print(count)
+  co=co+1
+print(co)
