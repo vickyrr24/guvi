@@ -1,2 +1,5 @@
 string=input()
+
+
+
 print(string)
