@@ -1,4 +1,6 @@
 import re
 n=input()
 h=re.findall('\d+',n)
-print(*h)
+for i in h:
+    print(i,end="")
+
